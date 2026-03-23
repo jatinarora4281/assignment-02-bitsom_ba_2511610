@@ -1,0 +1,163 @@
+[
+  {
+    "_id": "PROD001",
+    "product_name": "Samsung Galaxy S24 Ultra",
+    "category": "Electronics",
+    "brand": "Samsung",
+    "price": 124999,
+    "currency": "INR",
+    "in_stock": true,
+    "stock_quantity": 45,
+    "specifications": {
+      "display": "6.8-inch Dynamic AMOLED",
+      "processor": "Snapdragon 8 Gen 3",
+      "ram_gb": 12,
+      "storage_gb": 256,
+      "battery_mah": 5000,
+      "camera_mp": 200,
+      "os": "Android 14"
+    },
+    "warranty": {
+      "duration_months": 12,
+      "type": "manufacturer",
+      "covers": [
+        "hardware defects",
+        "battery",
+        "display"
+      ]
+    },
+    "voltage": "5V / 45W fast charging",
+    "certifications": [
+      "BIS",
+      "SAR compliant"
+    ],
+    "tags": [
+      "smartphone",
+      "5G",
+      "flagship"
+    ],
+    "ratings": {
+      "average": 4.6,
+      "count": 2341
+    },
+    "added_date": "2024-01-20"
+  },
+  {
+    "_id": "PROD002",
+    "product_name": "Men's Slim Fit Chinos",
+    "category": "Clothing",
+    "brand": "Peter England",
+    "price": 1299,
+    "currency": "INR",
+    "in_stock": true,
+    "stock_quantity": 120,
+    "specifications": {
+      "fabric": "98% Cotton, 2% Elastane",
+      "fit": "Slim Fit",
+      "occasion": [
+        "casual",
+        "semi-formal"
+      ],
+      "care_instructions": [
+        "machine wash cold",
+        "do not bleach",
+        "tumble dry low"
+      ],
+      "country_of_origin": "India"
+    },
+    "available_variants": [
+      {
+        "color": "Navy Blue",
+        "sizes": [
+          "28",
+          "30",
+          "32",
+          "34",
+          "36"
+        ]
+      },
+      {
+        "color": "Olive Green",
+        "sizes": [
+          "30",
+          "32",
+          "34"
+        ]
+      },
+      {
+        "color": "Beige",
+        "sizes": [
+          "28",
+          "30",
+          "32",
+          "34",
+          "36",
+          "38"
+        ]
+      }
+    ],
+    "gender": "Men",
+    "age_group": "Adult",
+    "tags": [
+      "chinos",
+      "cotton",
+      "office wear"
+    ],
+    "ratings": {
+      "average": 4.2,
+      "count": 876
+    },
+    "added_date": "2023-09-15"
+  },
+  {
+    "_id": "PROD003",
+    "product_name": "Organic Whole Wheat Atta 10kg",
+    "category": "Grocery",
+    "brand": "Aashirvaad",
+    "price": 489,
+    "currency": "INR",
+    "in_stock": true,
+    "stock_quantity": 300,
+    "specifications": {
+      "weight_kg": 10,
+      "form": "powder",
+      "grain_type": "whole wheat",
+      "milling": "stone ground"
+    },
+    "nutritional_info": {
+      "serving_size_g": 100,
+      "energy_kcal": 341,
+      "carbohydrates_g": 69.4,
+      "protein_g": 12.0,
+      "fat_g": 1.7,
+      "fibre_g": 1.9,
+      "sodium_mg": 37
+    },
+    "expiry_info": {
+      "manufactured_date": "2023-12-01",
+      "expiry_date": "2024-11-30",
+      "shelf_life_months": 12
+    },
+    "certifications": [
+      "FSSAI",
+      "Organic India certified",
+      "ISO 22000"
+    ],
+    "allergens": [
+      "wheat",
+      "gluten"
+    ],
+    "storage_instructions": "Store in a cool, dry place. Keep away from moisture.",
+    "tags": [
+      "atta",
+      "organic",
+      "whole wheat",
+      "staple"
+    ],
+    "ratings": {
+      "average": 4.5,
+      "count": 15432
+    },
+    "added_date": "2024-11-05"
+  }
+]
